@@ -21,4 +21,4 @@ Install this folder as an agent skill and trigger it using the commands describe
 - `data/工作流模板.md`
 - `data/工具索引.md`
 
-合作：AI产品测评 / 企业AI培训 / 内容获客。微信 Zephyr136。X：https://x.com/Astronaut_1216
+合作推广：受众是跨境出海、独立开发者、AI视频爱好者。产品推广、模型测评。相关产品如需推广，可以和我联系。微信 Zephyr136。邮箱 a1165094791@gmail.com。X：https://x.com/Astronaut_1216
