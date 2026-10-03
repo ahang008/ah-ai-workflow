@@ -1,12 +1,17 @@
 # ah-ai-workflow
 
+
 Agent skill for designing practical human-AI workflows for business and knowledge work.
+
 
 ## Usage
 
+
 Install this folder as an agent skill and trigger it using the commands described in `SKILL.md`.
 
+
 ## Files
+
 
 - `README.md`
 - `SKILL.md`
@@ -15,3 +20,5 @@ Install this folder as an agent skill and trigger it using the commands describe
 - `Step3-工具链输出.md`
 - `data/工作流模板.md`
 - `data/工具索引.md`
+
+合作：AI产品测评 / 企业AI培训 / 内容获客。微信 Zephyr136。X：https://x.com/Astronaut_1216
